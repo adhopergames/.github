@@ -15,19 +15,20 @@ Trabajamos tanto en proyectos digitales como en juegos de mesa, con un enfoque c
 
 ## 🕹️ Proyectos
 
-### ♟️ **Furia Elemental**
-Juego de mesa de cartas basado en combate estratégico con elementos:
-Agua, Fuego, Naturaleza, Rayo, Hielo, Viento, Luz y Oscuridad.
+### **Furia Elemental**
+<img src="images/Logo Furia Elementall.png" width="400"/>
+
+Juego de mesa de cartas basado en combate estratégico con elementos.
 
 > **Formato:** Juego de mesa físico  
 > **Estado:** Completado
 
 ---
 
-### 🌗 **Entre Luces y Sombras**
-Experiencia narrativa en primera persona sobre memoria, duelo y emociones.
+### **Entre Luces y Sombras**
+<img src="images/Entre Luces y Sombras.jpg" width="400"/>
 
-Las decisiones entre Luz y Oscuridad conducen a uno de tres finales posibles.
+Experiencia narrativa en primera persona sobre memoria, duelo y emociones.
 
 > **Motor:** Unreal Engine 5  
 > **Estado:** Completado
