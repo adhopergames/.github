@@ -20,7 +20,7 @@ Juego de mesa de cartas basado en combate estratégico con elementos:
 Agua, Fuego, Naturaleza, Rayo, Hielo, Viento, Luz y Oscuridad.
 
 > **Formato:** Juego de mesa físico  
-> **Estado:** En desarrollo
+> **Estado:** Completado
 
 ---
 
@@ -30,7 +30,7 @@ Experiencia narrativa en primera persona sobre memoria, duelo y emociones.
 Las decisiones entre Luz y Oscuridad conducen a uno de tres finales posibles.
 
 > **Motor:** Unreal Engine 5  
-> **Estado:** Completado / Prototipo
+> **Estado:** Completado
 
 ---
 
@@ -45,6 +45,9 @@ Proyecto digital actualmente en desarrollo.
 ## 🛠️ Tecnologías
 - Unity (C#)
 - Unreal Engine 5
+- Diseño de sistemas de juego
+- Narrativa interactiva
+- Prototipado de mecánicas
 
 ---
 
