@@ -1,34 +1,59 @@
 # 🎮 Adhoper Games
 
-**Adhoper Games** is an indie game studio focused on creating meaningful and emotional games and interactive experiences.
+**Adhoper Games** es un estudio indie enfocado en crear experiencias interactivas con carga emocional, donde el juego y la narrativa se encuentran.
 
 > *Where hope plays.*
 
 ---
 
-## 🌱 About Us
-We are a small indie studio exploring the intersection between gameplay, emotion, and purpose.  
-Our projects combine creative mechanics, thoughtful design, and hopeful narratives.
+## 🌱 Sobre nosotros
+Adhoper Games desarrolla juegos y experiencias narrativas que exploran la emoción, la toma de decisiones y el significado detrás del acto de jugar.
+
+Trabajamos tanto en proyectos digitales como en juegos de mesa, con un enfoque creativo y personal.
 
 ---
 
-## 🕹️ Current Projects
-- **Furia Elemental** – Strategic elemental combat game  
+## 🕹️ Proyectos
+
+### ♟️ **Furia Elemental**
+Juego de mesa de cartas basado en combate estratégico con elementos:
+Agua, Fuego, Naturaleza, Rayo, Hielo, Viento, Luz y Oscuridad.
+
+> **Formato:** Juego de mesa físico  
+> **Estado:** En desarrollo
 
 ---
 
-## 🛠️ Tech Stack
+### 🌗 **Entre Luces y Sombras**
+Experiencia narrativa en primera persona sobre memoria, duelo y emociones.
+
+Las decisiones entre Luz y Oscuridad conducen a uno de tres finales posibles.
+
+> **Motor:** Unreal Engine 5  
+> **Estado:** Completado / Prototipo
+
+---
+
+### ⚖️ **Dual Balance**
+Proyecto digital actualmente en desarrollo.
+
+> **Motor:** Unity  
+> **Estado:** En desarrollo
+
+---
+
+## 🛠️ Tecnologías
 - Unity (C#)
-- 2D / 3D Game Development
-- Custom gameplay systems
-- Experimental mechanics
+- Unreal Engine 5
 
 ---
 
-## 🌐 Links
-- GitHub Organization: https://github.com/adhopergames
-- Founder: Adrian Curet
+## 👤 Fundador
+**Adrian Curet**  
+Ing. en Tecnologías Computacionales  
+Web & Game Developer  
+Founder of *Adhoper Games*
 
 ---
 
-> Building games and systems where hope plays.
+> Construyendo experiencias donde la esperanza también juega.
