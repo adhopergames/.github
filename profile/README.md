@@ -16,7 +16,7 @@ Trabajamos tanto en proyectos digitales como en juegos de mesa, con un enfoque c
 ## 🕹️ Proyectos
 
 ### **Furia Elemental**
-<img src="images/Logo Furia Elemental.png" width="300"/>
+<img src="images/Logo Furia Elemental.png" width="150"/>
 
 Juego de mesa de cartas basado en combate estratégico con elementos.
 
@@ -26,7 +26,7 @@ Juego de mesa de cartas basado en combate estratégico con elementos.
 ---
 
 ### **Entre Luces y Sombras**
-<img src="images/Entre Luces y Sombras.jpg" width="300"/>
+<img src="images/Entre Luces y Sombras.jpg" width="150"/>
 
 Experiencia narrativa en primera persona sobre memoria, duelo y emociones.
 
