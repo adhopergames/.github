@@ -55,8 +55,7 @@ Proyecto digital actualmente en desarrollo.
 ## 👤 Fundador
 **Adrian Curet**  
 Ing. en Tecnologías Computacionales  
-Web & Game Developer  
-Founder of *Adhoper Games*
+Web & Game Developer
 
 ---
 
