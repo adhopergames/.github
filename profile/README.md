@@ -36,10 +36,14 @@ Experiencia narrativa en primera persona sobre memoria, duelo y emociones.
 ---
 
 ### ⚖️ **Dual Balance**
-Proyecto digital actualmente en desarrollo.
+<img src="images/LogoFondo.jpg" width="220"/>
+
+Endless runner 2D desarrollado en Unity, centrado en mantener el equilibrio entre las energías de Luz y Oscuridad mientras se esquivan obstáculos y se atraviesan paredes elementales.
 
 > **Motor:** Unity  
-> **Estado:** En desarrollo
+> **Plataformas:** Android / Windows  
+> **Estado:** Publicado  
+> **Disponible en:** [Google Play](https://play.google.com/store/apps/details?id=com.adhopergames.dualbalance&pcampaignid=web_share) · [itch.io](https://adhopergames.itch.io/dual-balance)
 
 ---
 
