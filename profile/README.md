@@ -1,66 +1,67 @@
 # 🎮 Adhoper Games
 
-**Adhoper Games** es un estudio indie enfocado en crear experiencias interactivas con carga emocional, donde el juego y la narrativa se encuentran.
+**Adhoper Games** is an indie studio focused on creating emotionally driven interactive experiences where gameplay and storytelling come together.
 
 > *Where hope plays.*
 
 ---
 
-## 🌱 Sobre nosotros
-Adhoper Games desarrolla juegos y experiencias narrativas que exploran la emoción, la toma de decisiones y el significado detrás del acto de jugar.
+## 🌱 About Us
+Adhoper Games develops games and narrative experiences that explore emotion, decision-making, and the meaning behind the act of playing.
 
-Trabajamos tanto en proyectos digitales como en juegos de mesa, con un enfoque creativo y personal.
+We work on both digital projects and board games, with a creative and personal approach.
 
 ---
 
-## 🕹️ Proyectos
+## 🕹️ Projects
 
 ### **Furia Elemental**
 <img src="images/Logo Furia Elemental.png" width="150"/>
 
-Juego de mesa de cartas basado en combate estratégico con elementos.
+A card-based board game focused on strategic combat using elemental mechanics.
 
-> **Formato:** Juego de mesa físico  
-> **Estado:** Completado
+> **Format:** Physical board game  
+> **Status:** Completed
 
 ---
 
 ### **Entre Luces y Sombras**
 <img src="images/Entre Luces y Sombras.jpg" width="150"/>
 
-Experiencia narrativa en primera persona sobre memoria, duelo y emociones.
+A first-person narrative experience centered on memory, grief, and emotions.
 
-> **Motor:** Unreal Engine 5  
-> **Estado:** Completado
+> **Engine:** Unreal Engine 5
+> **Platforms:** Windows 
+> **Status:** Completed
 
 ---
 
 ### ⚖️ **Dual Balance**
-<img src="images/LogoFondo.jpg" width="220"/>
+<img src="images/LogoFondo.jpg" width="150"/>
 
-Endless runner 2D desarrollado en Unity, centrado en mantener el equilibrio entre las energías de Luz y Oscuridad mientras se esquivan obstáculos y se atraviesan paredes elementales.
+A 2D endless runner developed in Unity, focused on maintaining the balance between Light and Darkness energies while avoiding obstacles and breaking through elemental walls.
 
-> **Motor:** Unity  
-> **Plataformas:** Android / Windows  
-> **Estado:** Publicado  
-> **Disponible en:** [Google Play](https://play.google.com/store/apps/details?id=com.adhopergames.dualbalance&pcampaignid=web_share) · [itch.io](https://adhopergames.itch.io/dual-balance)
+> **Engine:** Unity  
+> **Platforms:** Android / Windows  
+> **Status:** Released  
+> **Available on:** [Google Play](https://play.google.com/store/apps/details?id=com.adhopergames.dualbalance&pcampaignid=web_share) · [itch.io](https://adhopergames.itch.io/dual-balance)
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Technologies
 - Unity (C#)
 - Unreal Engine 5
-- Diseño de sistemas de juego
-- Narrativa interactiva
-- Prototipado de mecánicas
+- Game systems design
+- Interactive storytelling
+- Gameplay prototyping
 
 ---
 
-## 👤 Fundador
+## 👤 Founder
 **Adrian Curet**  
-Ing. en Tecnologías Computacionales  
+Computer Technologies Engineer  
 Web & Game Developer
 
 ---
 
-> Construyendo experiencias donde la esperanza también juega.
+> Building experiences where hope also plays.
