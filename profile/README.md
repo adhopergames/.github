@@ -30,8 +30,8 @@ A card-based board game focused on strategic combat using elemental mechanics.
 
 A first-person narrative experience centered on memory, grief, and emotions.
 
-> **Engine:** Unreal Engine 5
-> **Platforms:** Windows 
+> **Engine:** Unreal Engine 5  
+> **Platform:** Windows  
 > **Status:** Completed
 
 ---
